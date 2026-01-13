@@ -1,0 +1,7 @@
+{
+  "name": "Success Class Transcription",
+  "description": "A high-performance live transcription and translation app powered by Orbit Live and Supabase Realtime.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
